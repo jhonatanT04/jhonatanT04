@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Jhonatan Tacuri 👋</h1>
+<h1 align="center">Hola, soy Jhonatan👋</h1>
 <h3 align="center">Ingeniero en Ciencias de la Computación </h3>
 
 <p align="center">
@@ -71,4 +71,3 @@
 <br>
 
 - 📍 Cuenca, Ecuador
-- 📫 Contacto: **tacurijhonatan81@gmail.com**
