@@ -43,6 +43,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" src="https://img.icons8.com/fluency/48/express-js.png" />
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
